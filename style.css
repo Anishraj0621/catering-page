@@ -1,0 +1,51 @@
+body{
+    font-family: 'Alegreya SC';
+}
+/* navigation */
+.navbar-brand{
+    letter-spacing: 4px;
+}
+.nav-item{
+    letter-spacing: 4px;
+}
+/* header section */
+.header{
+    position: relative;
+}
+.header h2{
+    margin-left: 15px;
+    margin-top: -50px;
+    letter-spacing: 4px;
+}
+/* about and menu */
+.row{
+    margin-top: 50px;
+}
+.col-md-6 h2{
+    text-align: center;
+    margin-top: 150px;
+    letter-spacing: 4px;
+}
+.col-md-6 .para{
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+/* contact area */
+.contact{
+    margin-top: 50px;
+}
+
+/* footer section */
+.footer{
+    margin-top: 50px;
+    background-color: whitesmoke;
+    height: 15vh;
+    justify-content: center;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 4px;
+}
+.footer p{
+    margin-bottom: 40px;
+}
